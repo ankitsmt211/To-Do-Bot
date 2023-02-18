@@ -15,4 +15,8 @@
 
 ### Getting started
  
-create a bot and add `token` in `config.Bot` class 
+NOTE: create a bot and add `token` in `config.Bot` class
+
+### Documentation for JDA
+
+[JDA](https://jda.wiki/introduction/jda/)
