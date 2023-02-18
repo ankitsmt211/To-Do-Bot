@@ -1,4 +1,5 @@
 # TO-DO-BOT
+
 ### A To-Do bot that uses JDA to interact with discord API using Java
 
 ###### An experimental project
@@ -13,3 +14,5 @@
 ![image](src/main/resources/show.png)
 
 ### Getting started
+ 
+create a bot and add `token` in `config.Bot` class 
